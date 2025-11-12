@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int n;
-    long long factorial = 1; // Используем long long для больших значений
+    long long factorial = 1; 
 
     cout << "Введите число N: ";
     cin >> n;
